@@ -173,21 +173,9 @@ public class Akarshana {
 * Data Structures & Algorithms
 * LeetCode Problem Solving
 * Full Stack Web Development
-* Firebase Advanced Features
+* Firebase Features
 * System Design Fundamentals
 
----
-
-# 🎯 2026 Goals
-
-* ⭐ Solve 300+ DSA problems
-* 🚀 Build more real-world full stack projects
-* 📚 Learn React.js
-* ☁️ Explore Cloud Computing
-* 💼 Contribute to Open Source
-* 🔥 Maintain an active GitHub profile
-
----
 
 # 📫 Connect With Me
 
